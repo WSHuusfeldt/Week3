@@ -4,8 +4,9 @@ I projektet ligger tre mapper navngivet efter ugedage, de består af opgaverne f
 Jeg støtte på nogle problemer, men det bør gerne være velfungerende.
 Jeg har fået Travis op at køre som det skal, dog har jeg i opgaven: rest-jpa-devops-startcode stødt på nogle problemer, som jeg ikke har kunne fikse. (Vel at mærke er dette kun et problem for de fremtidige dages opgaver vedr. dette projekt, såsom test og fetch)
 
-Check: 
-..* https://williamhuusfeldt.dk/rest-jpa-devops-starter/ 
+Check:
+..*
++ https://williamhuusfeldt.dk/rest-jpa-devops-starter/ 
 - https://williamhuusfeldt.dk/rest-jpa-devops-starter/api/xxx/
 + https://williamhuusfeldt.dk/rest-jpa-devops-starter/api/xxx/count
 
