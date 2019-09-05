@@ -1,0 +1,11 @@
+.myDiv {
+    width: 25px; 
+    height: 25px;
+    background-color:yellow;
+     margin:1px;
+    }
+
+p {
+    width: 100px;
+    border: 1px solid palevioletred;
+}
