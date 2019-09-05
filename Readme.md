@@ -14,8 +14,8 @@ Check:
 # Onsdag:
 Næsten alt er lavet, der er enkelte mangler.
 Gå ind i src mappen, her vil der ligge fire JS filer.
-+ Opgave: The JavaScript Array ligger i array.js
-+ Opgave: JavaScript Day-1 ligger i functions.js
++ Opgave: The JavaScript Array ligger i **array.js**
++ Opgave: JavaScript Day-1 ligger i **functions.js**
 
 
 # Torsdag:
